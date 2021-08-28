@@ -41,3 +41,5 @@ accommodates with feature weight as 0.20,0.09,0.08 and 0.03 respectively.
 Using XGB model, we are able to predict price with RMSE of 96. 
 Few other important features are parking space availability, number of nights the Airbnb is available and host response for predicting the price. 
 From project, it can also be concluded that most of the listing of the Boston city are around central Boston. 
+
+Looking at the results of the different questions that we wanted to ask, we found that the In Boston mentioning features or amenities like Availability of entire apartment, Number of bathrooms, Number of apartments can accommodate and Exercise Facilities would certainly influence the price for the property. The parking space, ratings and amenities would certainly have effect as well. So, Using the model and rules of association for features would make a listing stand out from the crowd and would help hosts as well as the Airbnb to predict the best price range for any property in Boston.
