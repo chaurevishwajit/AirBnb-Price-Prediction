@@ -25,6 +25,15 @@ Few important variables:
 * Last Review: the date of the most recent review. 
 * Review Score Rating: guests can score properties overall from 1 to 5 stars 
 
+# ML Models used
+* KNN with Hyperparamter Tuning
+* Decision Tree with Hyperparameter Tuning
+* Random Forest with Hyperparameter Tuning
+* SVR with Hyperparameter Tuning
+* Neural Network with Hyperparamter Tuning
+* Ridge with Hyperparameter Tuning
+* XGB with Hyperparameter Tuning
+
 # Conclusion
 
 The most important features for the price of Airbnb accommodation in Boston are whether the Entire Apt/Home is available or not, Number of bathrooms, Number of people it can 
