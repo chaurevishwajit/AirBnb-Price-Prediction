@@ -1,5 +1,9 @@
 # AirBnb Price Prediction
 
+## Medium Article
+
+https://medium.com/@chaure.v/boston-airbnb-price-prediction-67f65aa54768
+
 ## Problem Setting
 
 Since its inception, Airbnb has been a critical market driver in addressing a low-cost lodging problem by investigating the ancillary revenue stream of residents who could not afford their apartment's rent. Airbnb now provides a solid, intermediate public framework for connecting supply and demand in the temporary housing and accommodation market. We wish to explore the underlying facts behind the listings of the various properties inside Boston and try to answer specific issues that could assist both Airbnb and potential owners as Airbnb has grown in popularity. 
